@@ -1,0 +1,2 @@
+--data_input="[DATA_PATH_IN_GS]"
+--model_output="[OUTPUT_PATH_IN_GS]"
