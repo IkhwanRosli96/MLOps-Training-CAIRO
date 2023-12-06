@@ -1,6 +1,12 @@
 # Google Machine Learing API - Hands-On
 
-> For all the examples - show on using Gcloud only except Google Vision API
+> For more information about the topic, please refer to the presentation slides that have already been shared with you.
+
+### Prerequisite
+#### 1. Create a Bucket in Cloud Storage for Your Project
+-  Go to your GCP console and search for **Cloud Storage**
+-  ![GCP Console](https://drive.google.com/file/d/1N5NB3K8Pw0CnVSxprqgmkOhNNKpxRi7Q/view?usp=sharing)
+-  swswsws
 
 ## Google Vision API - [Documentation](https://cloud.google.com/vision/docs/features-list)
 
