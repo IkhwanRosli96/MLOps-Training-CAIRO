@@ -1,0 +1,17 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuLh5RyUR6FDYZi9MQeD7RoQfU90cY67quA&usqp=CAU"
+        }
+      },
+      "features": [
+        {
+          "maxResults": 2,
+          "type": "LABEL_DETECTION"
+        }
+      ]
+    }
+  ]
+}
